@@ -7,6 +7,6 @@ void main()
 
 class MyApp extends StatelessWidget {
  Widget build(BuildContext context){
-   return MaterialApp(close: Text('iivr'),);
+   return MaterialApp(home: Text('iivr'),);
   }
 }
